@@ -14,8 +14,6 @@ public class SumOfDivisors {
 		}
 		
 		System.out.println("Divisor of "+n+" is "+sum);
-		
-
 	}
 
 }
